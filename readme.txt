@@ -1,4 +1,5 @@
 The source code implements the saliency computation algorithm described in our submission.
+Structure-Sensitive Saliency Detection via Multilevel Rank Analysis in Intrinsic Feature Space, TIP15, 2015
 
 Requirement:
 1.Visual Studio 2010 x64 enviroument
